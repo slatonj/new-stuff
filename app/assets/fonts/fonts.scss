@@ -1,9 +1,21 @@
 
 
 @font-face {
-    font-family: 'black_ops_oneregular';
-    src: url('blackopsone-regular-webfont.woff2') format('woff2'),
-         url('blackopsone-regular-webfont.woff') format('woff');
+    font-family: 'cabinsketchbold';
+    src: url('cabinsketch-bold.woff2') format('woff2'),
+         url('cabinsketch-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'cabinsketchregular';
+    src: url('cabinsketch-regular.woff2') format('woff2'),
+         url('cabinsketch-regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
